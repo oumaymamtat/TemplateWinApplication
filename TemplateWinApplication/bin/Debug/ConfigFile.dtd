@@ -1,0 +1,7 @@
+<!-- edited with XML Spy v4.1 U (http://www.xmlspy.com) by a (a) -->
+<!ELEMENT config (NetworkPath*)>
+<!ELEMENT NetworkPath (DBServerPath,DataServerPath)>
+<!ELEMENT DBServerPath (#PCDATA)>
+<!ELEMENT DataServerPath (#PCDATA)>
+
+

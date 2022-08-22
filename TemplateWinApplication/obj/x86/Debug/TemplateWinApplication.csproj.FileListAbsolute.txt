@@ -1,0 +1,16 @@
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.csprojResolveAssemblyReference.cache
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.FormArticle.resources
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.FormGestionArticles1.resources
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.FormGestionArticles2.resources
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.FormListeArticles.resources
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.MainForm.resources
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.Properties.Resources.resources
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.csproj.GenerateResource.Cache
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.exe
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.pdb
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\bin\Debug\TemplateWinApplication.exe
+C:\Users\Pro\Desktop\TemplateWinApplication\TemplateWinApplication\TemplateWinApplication\bin\Debug\TemplateWinApplication.pdb
+F:\DEV\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.exe
+F:\DEV\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.pdb
+G:\DEV\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.exe
+G:\DEV\TemplateWinApplication\TemplateWinApplication\obj\x86\Debug\TemplateWinApplication.pdb
